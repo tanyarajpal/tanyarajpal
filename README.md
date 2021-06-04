@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanya Rajpal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate web developer from India</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tanya933](https://github.com/Tanya933)
 
