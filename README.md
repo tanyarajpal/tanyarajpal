@@ -4,7 +4,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Tanya933](https://github.com/Tanya933)
 
 - 📫 How to reach me **tanya.rajpal0400@gmail.com**
-- competitive programmer (3 star coder at codechef)
+- competitive programmer 
 - I am keen learner, loves to solve problems using my skills.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
