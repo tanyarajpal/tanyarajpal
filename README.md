@@ -9,8 +9,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tanya-rajpal-6a02071ab/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/tanya-rajpal-6a02071ab/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/tanya.rajpal0400/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/tanya.rajpal0400/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/tanya933" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/tanya933" height="30" width="40" /></a>
+<a href="https://www.instagram.com/tanya.rajpal0400/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/tanya.rajpal0400/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/tanya933" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/tanya933" height="30" width="40" /></a>
 </p>
 
 
