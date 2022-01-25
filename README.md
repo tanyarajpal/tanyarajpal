@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Tanya Rajpal</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Tanya933](https://github.com/Tanya933)
+- 👨‍💻 All of my projects are available at [https://github.com/tanyarajpal](https://github.com/tanyarajpal)
 
 - 📫 How to reach me **tanya.rajpal0400@gmail.com**
 - competitive programmer 
 - I am keen learner, loves to solve problems using my skills.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/tanya-rajpal-6a02071ab/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/tanya-rajpal-6a02071ab/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tanya-rajpal/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/tanya-rajpal/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/__tanyarajpal__/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/tanya.rajpal0400/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/tanya933" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/tanya933" height="30" width="40" /></a>
 </p>
