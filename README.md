@@ -34,13 +34,13 @@
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanya933&show_icons=true&locale=en&layout=compact" alt="tanya933" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanya933&show_icons=true&locale=en&layout=compact" alt="tanyarajpal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanya933&" alt="tanya933" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanyarajpal&" alt="tanyarajpal" /></p>
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Tanya933&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=tanyarajpal&&style=flat-square" align="center" />
 </div>  
   
 
